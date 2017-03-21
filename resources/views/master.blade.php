@@ -35,7 +35,7 @@
           <script type="text/javascript" language="javascript" src="//cdn.rawgit.com/bpampuch/pdfmake/0.1.18/build/vfs_fonts.js"></script>
           <script type="text/javascript" language="javascript" src="//cdn.datatables.net/buttons/1.2.1/js/buttons.html5.min.js"></script>
           <link rel="stylesheet" href="https://cdn.datatables.net/1.10.4/css/jquery.dataTables.min.css">
-          
+          <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.0.1/css/responsive.bootstrap.min.css"> 
     
         
 
@@ -43,6 +43,8 @@
 
       <!--<title>Inscripciones Capacitación Orfeo</title>-->
   </head>
+
+
 
   <body>
       

@@ -5,7 +5,9 @@ $(function() {
         $('#div-tabla').html(response);
         },complete: function(){
 
-           $('#lista').DataTable({"language": {"url": "//cdn.datatables.net/plug-ins/1.10.11/i18n/Spanish.json"
+           $('#lista').DataTable({
+            "responsive": true,
+           "language": {"url": "//cdn.datatables.net/plug-ins/1.10.11/i18n/Spanish.json"
                   },
                    dom: 'Bfrtip',
         buttons: [
